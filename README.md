@@ -1,11 +1,4 @@
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/shynekomaid/shynekomaid/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shynekomaid&radius=20&theme=redical&area=true&order=5&hide_border=true&hide_title=false" height="500" alt="activity-graph graph"  />
 </div>
